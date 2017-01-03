@@ -1,10 +1,9 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January, 2017
-##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**: Created WindowManager class to handle engine's window&events and created a Map class which loades map from a file to vector of string then into vector of tiles.
 
-**Thoughts:** 
+**Thoughts:** I'll create player entity next
 
-**Link to work:** 
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
