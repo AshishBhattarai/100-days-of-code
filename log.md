@@ -8,10 +8,18 @@
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
 
-### Day 1: January 4rd, 2017
+### Day 1: January 4th, 2017
 
 **Today's Progress**: Created a Vec2 class for 2D vectors & created rough sketch of Player class(on notebook)
 
 **Thoughts:** I think i should re implement my WindowManager class or remove WidowManager class
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
+### Day 2: January 5th, 2017
+
+**Today's Progress**: Made WindowManager class static, created player entity & InputHandler class. You can move player around the screen;
+
+**Thoughts:** I sloved lots of problem related to WindowManager class today and created player entity. Next is physics codes.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
