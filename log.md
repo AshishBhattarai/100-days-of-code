@@ -23,3 +23,11 @@
 **Thoughts:** I sloved lots of problem related to WindowManager class today and created player entity. Next is physics codes.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
+### Day 3: January 6th, 2017
+
+**Today's Progress**: Created a rough sketch fo collision system.
+
+**Thoughts:** I think i should sketch out other physics codes too and implement them along with the collision system.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
