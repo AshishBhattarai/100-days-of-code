@@ -31,3 +31,12 @@
 **Thoughts:** I think i should sketch out other physics codes too and implement them along with the collision system.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
+### Day 4: January 7th, 2017
+
+**Today's Progress**: Implemented collision system & frame baised movement.
+
+**Thoughts:** Took me whole day to code bug free collision system PHEW!!. Next is gravity & jump.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
