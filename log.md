@@ -40,4 +40,13 @@
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato	
 				  https://www.youtube.com/watch?v=BY0FNZHr0YU
+				  
+### Day 5: January 8th, 2017
+
+**Today's Progress**: Gravity and jump simulation.
+
+**Thoughts:** Its somewhat buggy but it will great for now. Next is camera movement :D
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato	
+				  
 
