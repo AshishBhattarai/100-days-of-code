@@ -8,6 +8,7 @@
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
 
+
 ### Day 1: January 4th, 2017
 
 **Today's Progress**: Created a Vec2 class for 2D vectors & created rough sketch of Player class(on notebook)
@@ -15,6 +16,7 @@
 **Thoughts:** I think i should re implement my WindowManager class or remove WidowManager class
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
 
 ### Day 2: January 5th, 2017
 
@@ -24,6 +26,7 @@
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
 
+
 ### Day 3: January 6th, 2017
 
 **Today's Progress**: Created a rough sketch fo collision system.
@@ -31,6 +34,7 @@
 **Thoughts:** I think i should sketch out other physics codes too and implement them along with the collision system.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
 
 ### Day 4: January 7th, 2017
 
@@ -48,5 +52,16 @@
 **Thoughts:** Its somewhat buggy but it will great for now. Next is camera movement :D
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato	
+
+
+### Day 6: January 10th, 2017
+
+**Today's Progress**: Fixed input bugs, Improved jump & gravity simulation AND implemented camera
+
+**Thoughts:** Today i did a lot of stuffs. Fixed my buggy jump & gravity + implemented camera. Next i'll	 do some optimization & add textures to the engine.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato	
+				  https://youtu.be/jpZZawvMxnI
+				  
 				  
 
