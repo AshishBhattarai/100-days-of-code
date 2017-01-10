@@ -61,7 +61,7 @@
 **Thoughts:** Today i did a lot of stuffs. Fixed my buggy jump & gravity + implemented camera. Next i'll	 do some optimization & add textures to the engine.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato	
-				  https://youtu.be/jpZZawvMxnI
+				  https://youtu.be/scTWdu47Qfs
 				  
 				  
 
