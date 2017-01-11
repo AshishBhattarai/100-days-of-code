@@ -58,10 +58,19 @@
 
 **Today's Progress**: Fixed input bugs, Improved jump & gravity simulation AND implemented camera
 
-**Thoughts:** Today i did a lot of stuffs. Fixed my buggy jump & gravity + implemented camera. Next i'll	 do some optimization & add textures to the engine.
+**Thoughts:** Today i did a lot of stuffs. Fixed my buggy jump & gravity + implemented camera. Next i'll do some optimization & add textures to the engine.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato	
 				  https://youtu.be/scTWdu47Qfs
 				  
+				  ### Day 6: January 10th, 2017
+				  
+### Day 7: January 11th, 2017
+
+**Today's Progress**: Added basic enemy class. Its like a placeholder for now.
+
+**Thoughts:** Today i did less coding more thinking. I'll restructure my code first then plan texture class.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato	
 				  
 
