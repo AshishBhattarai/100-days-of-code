@@ -63,7 +63,6 @@
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato	
 				  https://youtu.be/scTWdu47Qfs
 				  
-				  ### Day 6: January 10th, 2017
 				  
 ### Day 7: January 11th, 2017
 
@@ -72,5 +71,13 @@
 **Thoughts:** Today i did less coding more thinking. I'll restructure my code first then plan texture class.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato	
+
+### Day 8: January 12th, 2017
+
+**Today's Progress**: Restructured project, tested some texture/image libraries.
+
+**Thoughts:** I am still not satisfied with my code structure. Might change it later. And i'll be using soil(texture loading library) for textures.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
 				  
 
