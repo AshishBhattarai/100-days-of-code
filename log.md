@@ -79,5 +79,12 @@
 **Thoughts:** I am still not satisfied with my code structure. Might change it later. And i'll be using soil(texture loading library) for textures.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
-				  
+
+### Day 9: January 13th, 2017
+
+**Today's Progress**: Roughly sketched texture mapping 
+
+**Thoughts:** Today i planned on how to implement textures into my game.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
 
