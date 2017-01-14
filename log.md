@@ -82,9 +82,16 @@
 
 ### Day 9: January 13th, 2017
 
-**Today's Progress**: Roughly sketched texture mapping 
+**Today's Progress**: Roughly sketched texture mapping. 
 
 **Thoughts:** Today i planned on how to implement textures into my game.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
 
+### Day 10: January 14th, 2017
+
+**Today's Progress**: Done implementing textures to the game
+
+**Thoughts:** Next i'll optimized the code & start planning for sprite animation.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
