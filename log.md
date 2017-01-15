@@ -98,7 +98,7 @@
 
 ### Day 11: January 15th, 2017
 
-**Today's Progress**: Planned optimized texture loading with has map.
+**Today's Progress**: Planned optimized texture binding with hash map.
 
 **Thoughts:** Today i got sick af so no coding today.
 
