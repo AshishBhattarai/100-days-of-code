@@ -95,3 +95,11 @@
 **Thoughts:** Next i'll optimized the code & start planning for sprite animation.
 
 **Link to work:** https://github.com/AshishBhattarai/2D-Potato
+
+### Day 11: January 15th, 2017
+
+**Today's Progress**: Planned optimized texture loading with has map.
+
+**Thoughts:** Today i got sick af so no coding today.
+
+**Link to work:** https://github.com/AshishBhattarai/2D-Potato
